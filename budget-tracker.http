@@ -1,0 +1,6 @@
+@budget_tracker_HostAddress = http://localhost:5196
+
+GET {{budget_tracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
